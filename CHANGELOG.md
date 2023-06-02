@@ -1,4 +1,5 @@
-The best rated One Dark port now includes Workbench theming!
+## Version 2.3.1
+* Modifications of the Atom One Dark theme made by Phanoteus.
 
 ## Version 2.3.0
 * Provide inlayHints colors
